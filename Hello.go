@@ -14,5 +14,5 @@ func main() {
 	HelloWorld()
 	// Comment
 	/* Comment 2 */
-	fmt.Println("Hello shu v4 git change v2")
+	fmt.Println("Hello shu v4 git change v4")
 }
